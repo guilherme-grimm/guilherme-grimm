@@ -7,6 +7,7 @@ Currently at C6 Bank, building high-throughput event-driven services with spec-f
 I care about spec-first APIs, codegen where it pays off, simple architecture, and systems that don't bother me in my sleep.
 
 **Open to Go contractor roles. Remote.**
+
 📬 contact@grimm0.dev.com
 📬 guilher.c.rodrigues@gmail.com
 
@@ -31,3 +32,6 @@ I care about spec-first APIs, codegen where it pays off, simple architecture, an
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/g-c-rodrigues) · [grimm0.dev](https://grimm0.dev) · [YouTube](https://youtube.com/@devGrimm) · [Twitter](https://x.com/guilherme_grimm)
+
+
+i use vim and arch btw (and pi)
