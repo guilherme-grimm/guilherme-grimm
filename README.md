@@ -34,4 +34,4 @@ I care about spec-first APIs, codegen where it pays off, simple architecture, an
 [LinkedIn](https://linkedin.com/in/g-c-rodrigues) · [grimm0.dev](https://grimm0.dev) · [YouTube](https://youtube.com/@devGrimm) · [Twitter](https://x.com/guilherme_grimm)
 
 
-i use vim and arch btw (and pi)
+i use vim and arch btw
