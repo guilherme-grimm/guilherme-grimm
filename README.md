@@ -8,7 +8,7 @@ I care about spec-first APIs, codegen where it pays off, simple architecture, an
 
 **Open to Go contractor roles. Remote.**
 
-📬 contact@grimm0.dev.com
+📬 contact@grimm0.dev
 📬 guilher.c.rodrigues@gmail.com
 
 ---
